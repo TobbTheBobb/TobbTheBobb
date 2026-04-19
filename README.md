@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TobbTheBobb
-- 👀 I’m interested in ...racing, formula1, programming and server-stuff - focused on mailing.
+- 👋 Hi, I’m Tobi @TobbTheBobb
+- 👀 I’m interested in ...racing, formula1, programming and server-stuff.
 - 🌱 I’m currently learning ...something of everything
 - 💞️ I’m looking to collaborate on ...we will see
 - 📫 How to reach me ...message me via git.
